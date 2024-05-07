@@ -26,4 +26,4 @@ Antes de ejecutar el bot, es necesario configurar las variables de entorno `TOKE
 
 Ejecuta el script `bot.py` para iniciar el bot. Asegúrate de que el bot esté invitado a tu servidor de Discord y tenga permisos suficientes para enviar mensajes en el canal especificado.
 
-EOF
+
