@@ -15,7 +15,7 @@ Este es un bot de Discord sencillo escrito en Python utilizando la librería `di
 
 ## Configuración
 
-Antes de ejecutar el bot, es necesario configurar las variables de entorno `TOKEN` y `CHANNEL_ID`. Para obtener un token creando una aplicación en [el portal de desarrolladores de Discord](https://discord.com/developers/applications) y generando un token para tu bot. El `CHANNEL_ID` es el ID del canal al que quieres que el bot envíe mensajes.
+Antes de ejecutar el bot, es necesario configurar las variables de entorno `TOKEN` y `CHANNEL_ID`. Para obtener un token creando una aplicación en [el portal de desarrolladores de Discord](https://discord.com/developers/applications) y generando un token para tu bot. El `CHANNEL_ID` es el ID del canal al que queres que el bot envíe mensajes.
 
 
 `TOKEN=""`
