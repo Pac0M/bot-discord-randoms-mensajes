@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Discord Bot
 
 Este es un bot de Discord sencillo escrito en Python utilizando la librería `discord.py` y `discord_easy_commands`. El bot envía mensajes aleatorios a un canal específico cada cierto tiempo.
